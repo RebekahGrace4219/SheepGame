@@ -18,8 +18,19 @@ Saber Sheep was my first full project.
 
 # What I would change
 
-When I was in highschool I had no idea that classes and structs existed. Now, I would put the sheep in an array of sheep objects so that I could iterate through them with ease.  Also, I would go back to my original design, where the sheperd's choice to encourage certain alleles would result in particular sheep having certain breeding patterns.  Using dynamic allocation, I could actively add sheep babies over the course of the game.  They would then grow up over a couple natural disasters.  Additionally, there are some really bad variable names in this code, like "continuebutton2" as an element name.  
+* When I was in highschool I had no idea that classes and structs existed. Now, I would put the sheep in an array of sheep objects so that I could iterate through them with ease.  
+* I would go back to my original design, where the sheperd's choice to encourage certain alleles would result in particular sheep having certain breeding patterns.  
+    - Using dynamic allocation, I could actively add sheep babies over the course of the game.  They would then grow up over a couple natural disasters.  
+* There are some really bad variable names in this code. 
+    - Many elements have names like "continueButton"
+    - I  would like to reiterate that I made this in highschool and that it does not match my current clean code standards.
+* There are almost no comments.  
+    - I fell into that pit of, "Why would I comment? I know what everything means?".  I can still understand it, even years later, but placing comments and meaningful variable names would have been a big help.
+
+When I look at this code, I can see how far I've come.  It was a passion project in highscool and fully reflected the best of my abilities. It has since become deprecated, as I have grown beyond it.  I have considered updating it but that plan is at least on pause until Summer 2021 when I will have more personal time.
 
 # Contributing
+Feel free to fork it or copy it for anything personal.  I am not allowing outside changes on the original, though.
 
 # License
+[Feel free to adapt and to share, but give attribution.](https://creativecommons.org/licenses/by-nc/4.0/)
