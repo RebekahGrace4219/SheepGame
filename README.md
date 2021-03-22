@@ -1,13 +1,13 @@
-## Saber Sheep: An Evolutionary Journey
+# Saber Sheep: An Evolutionary Journey
 
 Saber Sheep is a basic JavaScript game that I programmed in highschool.  It follows basic Mendelian Genetics as you try to selectively breed your sheep to survive against oncoming disasters.  It can be played [here](https://studio.code.org/projects/applab/NYK9xbAL8M4be54wG3g5_Ddav618HSqOj4JsEwYKREg/view). 
 
 
-# Usage
+## Usage
 
 Playing is really easy.  Just click the link and click 'Play' on the bottom left hand corner.  For each round, you can see the oncoming disaster listed up top- and you have to guess what change you would like to make to your breeding stock.  Then, the disaster plays and eliminates some of your sheep.  It will tell you more about what sheep did well and what sheep did not. If you survive all seven round, you win.  More instructions can be read by clicking 'Directions' on the bottom right hand corner of the home screen.
 
-# Concepts Learned
+## Concepts Learned
 
 Saber Sheep was my first full project. 
 * I used functions to denote the different types of disasters, and to control all the variables in the sheeps.  
@@ -16,7 +16,7 @@ Saber Sheep was my first full project.
 * Basic debugging was something I really had to learn to make the game, because there were so many moving parts.  If sheep were not appearing on the board, I had to diagnose if they were dying early or if the elements were just not showing properly.  The game required a methoidcal focus to fix up.  
 * I also learned how to balance the game. I played many times to try and create a game that was winnable, but not too easy.  I tweaked the number of sheep, the death ratios, and the preferred alleles to make it winnable regardless of the order of the natural disasters.  
 
-# Looking Back: What I Would Change
+## Looking Back: What I Would Change
 
 * When I was in highschool I had no idea that classes and structs existed. Now, I would put the sheep in an array of sheep objects so that I could iterate through them with ease.  
 * I would go back to my original design, where the sheperd's choice to encourage certain alleles would result in particular sheep having certain breeding patterns.  
@@ -29,8 +29,8 @@ Saber Sheep was my first full project.
 
 When I look at this code, I can see how far I've come.  It was a passion project in highscool and fully reflected the best of my abilities. It has since become deprecated, as I have grown beyond it.  I have considered updating it but that plan is at least on pause until Summer 2021 when I will have more personal time.
 
-# Contributing
+## Contributing
 Feel free to fork it or copy it for anything personal.  I am not allowing outside changes on the original, though.
 
-# License
+## License
 [Feel free to adapt and to share, but give attribution.](https://creativecommons.org/licenses/by-nc/4.0/)
