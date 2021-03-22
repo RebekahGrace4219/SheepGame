@@ -16,7 +16,7 @@ Saber Sheep was my first full project.
 * Basic debugging was something I really had to learn to make the game, because there were so many moving parts.  If sheep were not appearing on the board, I had to diagnose if they were dying early or if the elements were just not showing properly.  The game required a methoidcal focus to fix up.  
 * I also learned how to balance the game. I played many times to try and create a game that was winnable, but not too easy.  I tweaked the number of sheep, the death ratios, and the preferred alleles to make it winnable regardless of the order of the natural disasters.  
 
-# What I would change
+# Looking Back: What I Would Change
 
 * When I was in highschool I had no idea that classes and structs existed. Now, I would put the sheep in an array of sheep objects so that I could iterate through them with ease.  
 * I would go back to my original design, where the sheperd's choice to encourage certain alleles would result in particular sheep having certain breeding patterns.  
