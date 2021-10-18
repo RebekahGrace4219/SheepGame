@@ -15,6 +15,10 @@ Saber Sheep was my first full project.
 * To make sure each disaster only comes once, they are placed in a random combination in the beginning.  
 * Basic debugging was something I really had to learn to make the game, because there were so many moving parts.  If sheep were not appearing on the board, I had to diagnose if they were dying early or if the elements were just not showing properly.  The game required a methoidcal focus to fix up.  
 * I also learned how to balance the game. I played many times to try and create a game that was winnable, but not too easy.  I tweaked the number of sheep, the death ratios, and the preferred alleles to make it winnable regardless of the order of the natural disasters.  
+* This project was a collobaration between programmer (me) and designer. This meant I had to change things around to match her specifications, which is a skill all in it of itself.
+
+## Contributions
+Emily Stenzler (no github presence) made the designs and saber sheep.
 
 ## Looking Back: What I Would Change
 
