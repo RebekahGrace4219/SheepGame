@@ -18,23 +18,19 @@ Saber Sheep was my first full project.
 * This project was a collobaration between programmer (me) and designer. This meant I had to change things around to match her specifications, which is a skill all in it of itself.
 
 ## Contributions
-Emily Stenzler (no github presence) made the designs and saber sheep.
+
+Emily Stenzler (no GitHub presence) made the background designs and saber sheep.
 
 ## Looking Back: What I Would Change
 
-* When I was in highschool I had no idea that classes and structs existed. Now, I would put the sheep in an array of sheep objects so that I could iterate through them with ease.  
+* When I was in highschool I had no idea that classes and structs existed. Now, I would put the sheep in an array of sheep objects so that I could iterate through them with ease. 
+    - If you take a look at the code, I create 60 lists, one for each sheep. I then pushed each sheep into the master sheep list one by one. This is hilarious to me now, because I think I could think of ten better ways now without even trying.
 * I would go back to my original design, where the sheperd's choice to encourage certain alleles would result in particular sheep having certain breeding patterns.  
-    - Using dynamic allocation, I could actively add sheep babies over the course of the game.  They would then grow up over a couple natural disasters.  
+    - Using dynamic allocation, I could actively add sheep babies over the course of the game.  They would then grow up over a couple natural disasters. It would be both educational and adorable. 
 * There are some really bad variable names in this code. 
     - Many elements have names like "continueButton"
     - I  would like to reiterate that I made this in highschool and that it does not match my current clean code standards.
 * There are almost no comments.  
     - I fell into that pit of, "Why would I comment? I know what everything means?".  I can still understand it, even years later, but placing comments and meaningful variable names would have been a big help.
 
-When I look at this code, I can see how far I've come.  It was a passion project in highscool and fully reflected the best of my abilities. It has since become deprecated, as I have grown beyond it.  I have considered updating it but that plan is at least on pause until Summer 2021 when I will have more personal time.
-
-## Contributing
-Feel free to fork it or copy it for anything personal.  I am not allowing outside changes on the original, though.
-
-## License
-[Feel free to adapt and to share, but give attribution.](https://creativecommons.org/licenses/by-nc/4.0/)
+When I look at this code, I can see how far I've come.  It was for my AP Biology Class in high school (hence the Evolution theme). It was a lot of fun watching my class play it. 
